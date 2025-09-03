@@ -14,6 +14,6 @@ The computer will randomly choose its move
 The result will be displayed instantly: Win, Lose, or Draw
 
 # How to Run
-1. Clone or download the repository
+1. Clone or download the repository: https://github.com/arfatabid/Stone-Paper-Scissor-Game.git
 2. Open the index.html file in your browser
 3. Start playing! 🎮
